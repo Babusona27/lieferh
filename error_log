@@ -1,0 +1,1 @@
+[24-Mar-2021 07:29:48 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98570240 bytes) in /home/dipanbarun15/public_html/developer/lieferh/app/Http/Controllers/AdminControllers/TaskController.php on line 73
